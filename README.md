@@ -1,3 +1,1 @@
-# mybank2u
-# merchant2u
-# merchant2u
+# Merchant2U
